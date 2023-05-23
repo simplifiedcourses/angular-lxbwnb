@@ -1,0 +1,7 @@
+/* Add application styles & imports to this file! */
+label {
+  display:flex;
+}
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
